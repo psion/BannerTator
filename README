@@ -13,6 +13,8 @@ Then in your HTML, call the script as you would an image.  That's it!  Here's a 
 Simple, I know.  Use it to your hearts content.  And if you would so oblige, can you folks link
 my GitHub page with my other work?  Thanks.
 
+One little issue was that I only wrote it to work with PNG images so far.  Any further and it 
+runs the risk of not being a Simple Stupid Script.
 
 http://github.com/psion
 

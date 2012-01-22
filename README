@@ -1,0 +1,21 @@
+         BannerTator
+         
+A Simple Stupid Script to rotate images randomly.  This script was created originally to 
+rotate banners on a forum site, but it can be used to rotate any images.  Everytime this
+script is called, a different image is returned.
+
+To use this script, place the bannertator.php file and the image directory in your webroot,
+or where ever you hold your scripts.  Places the images you want rotated in the images dir.
+Then in your HTML, call the script as you would an image.  That's it!  Here's a stupid example.
+
+<img src="bannertator.php" />
+
+Simple, I know.  Use it to your hearts content.  And if you would so oblige, can you folks link
+my GitHub page with my other work?  Thanks.
+
+
+http://github.com/psion
+
+
+By the way, "Simple Stupid Script" is a classification for scripts that are just that, simple
+and stupid.
